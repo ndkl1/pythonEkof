@@ -7,5 +7,5 @@ PYTHON
 PRVI CAS
 Klase 
 Objekti
-Kretiranje instanci
+Kreiranje instanci
 
