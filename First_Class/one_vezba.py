@@ -5,6 +5,8 @@
 # moze da se izracuna.
 # TEST: Izracunati obim i povrsinu pravugaonika sa sirinom od 120cm i duzinom 160cm
 
+
+
 class Pravugaonik():
     def __init__(self, duzina, sirina):
         self.duzina = duzina
